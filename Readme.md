@@ -1,5 +1,5 @@
 # Stock Price App
- ## steps to run
+## Steps to run
  1. Install Streamlit 
  ```
  pip install streamlit
