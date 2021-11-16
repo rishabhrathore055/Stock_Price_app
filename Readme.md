@@ -1,4 +1,4 @@
-# Simple Stock Price application
+# Stock Price App
  ## steps to run
  1. Install Streamlit 
  ```
@@ -19,4 +19,3 @@ Give a ⭐ if You Like This Project
 * [Github](https://github.com/rishabhrathore055)
 * [Twitter](https://twitter.com/rishabh_055)
 * [Linkedin](https://www.linkedin.com/in/rishabhrathore)
-# Stock_Price_app
